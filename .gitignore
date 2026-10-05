@@ -1,0 +1,6 @@
+*.iso
+*.dmg
+.cache/
+.vscode/
+.idea/
+.DS_Store
