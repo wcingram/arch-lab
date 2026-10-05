@@ -13,3 +13,8 @@
   check https://asahi-alarm.org and/or their Matrix channel for M3 status.
 - If the installer rejects the M3 Pro or fails: fall back to Fedora Asahi Remix,
   revisit ALARM later. This is not a failed project either way.
+
+  ### Install command (verified Oct 2026)
+- WRONG for ALARM: curl https://alx.sh | sh  (this installs FEDORA Asahi Remix)
+- CORRECT for ALARM: curl https://asahi-alarm.org/installer-bootstrap.sh | sh
+- M3 Pro support in ALARM: UNCONFIRMED. Matrix check pending.
