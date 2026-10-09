@@ -22,3 +22,11 @@ Written in real-time, mistakes included. Not a tutorial. My experience, not offi
 
 ## License
 MIT — use this work, learn from it, tell me I was wrong where applicable.
+
+    ## Documentation
+    
+    - **[Install Log](docs/install-log.md)** — Complete timeline from pre-install decisions through GUI boot, sudo rescue, and Git setup
+    - **[Troubleshooting](docs/troubleshooting.md)** — Issues encountered + fixes (Git PAT auth, pacman locks, etc.)
+    - **[Hardware Status](docs/hardware-status.md)** — Component test results (keyboard, trackpad, audio, sleep, HDMI)
+    - **[What I Knew Before Starting](docs/what-i-knew-before-starting.md)** — Risk assessment and pre-install reasoning
+    - **[Checkpoint Tracker](docs/checkpoint.md)** — Quick state snapshots, pending tasks, lessons learned
